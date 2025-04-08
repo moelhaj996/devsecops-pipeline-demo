@@ -1,0 +1,37 @@
+# Security Testing Tools
+bandit==1.7.5
+safety==2.3.5
+pip-audit==2.6.1
+detect-secrets==1.4.0
+pre-commit==3.3.3
+
+# Testing and Coverage
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Static Analysis
+pylint==2.17.5
+mypy==1.5.1
+
+# Container Security
+docker==6.1.3
+
+# Dependency Management
+pip-tools==7.3.0
+
+# Monitoring and Logging
+prometheus-client==0.17.1
+python-json-logger==2.0.7
+
+# API Security
+requests==2.31.0
+pyjwt==2.8.0
+cryptography==41.0.3
+
+# Infrastructure as Code Security
+checkov==2.3.360
+terraform-compliance==1.3.33
+
+# Documentation
+mkdocs==1.5.2
+mkdocs-material==9.2.3
